@@ -13,7 +13,7 @@ public class Employee {
     private String email;
     private String carNumber;
 
-    private Employee() {
+    public Employee() {
     }
 
     public String getName() {
